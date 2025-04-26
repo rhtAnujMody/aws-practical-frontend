@@ -18,6 +18,7 @@ function App() {
       </div>
 
       <span>Pushed Using OIDC</span>
+      <span>Testing with least privilege</span>
 
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
